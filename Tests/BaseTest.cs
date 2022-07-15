@@ -1,7 +1,4 @@
 ﻿using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using TestProjectMembernova.Core.Driver;
 
 namespace TestProjectMembernova.Tests
